@@ -15,6 +15,4 @@ Perfis estilizados com hover
 
 Botão de Gerenciar Perfis
 
-Estrutura responsiva e centralizada
-
 ![Image](https://github.com/user-attachments/assets/058c0c0e-9f4a-4378-92f8-a43652f497c7)
