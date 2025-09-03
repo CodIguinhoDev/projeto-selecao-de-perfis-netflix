@@ -13,7 +13,7 @@ Layout inspirado na Netflix
 
 Perfis estilizados com hover
 
-Botão de "Gerenciar Perfis"
+Botão de Gerenciar Perfis
 
 Estrutura responsiva e centralizada
 
